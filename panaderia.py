@@ -131,3 +131,5 @@ elif eleccionPrincipal == "postres":
     else: 
         print("No le alcanza para el producto, le faltan $", falta)  
 
+else:
+    print("Este producto no existe, por favor elija uno valido")
